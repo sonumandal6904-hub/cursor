@@ -1,0 +1,1 @@
+ZenithSupermind with 26 brain cores
